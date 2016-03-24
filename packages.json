@@ -1,0 +1,20 @@
+{ 
+  "repo": { 
+  "name": "Update Pack", 
+  "author": "LunaLogic&Yukari", 
+  "website": "lunalogic.github.io" 
+  }, 
+  "packages": [ 
+  { 
+  "name": "Update With Homebrew", 
+  "author": "Various Authors", 
+  "short_description": "Download this for newer files.", 
+  "category": "application", 
+  "website:": "lunalogic.github.io", 
+  "type": "3ds", 
+  "version": "1.0.1", 
+  "dl_path": "updatefile3dsx/", 
+  "info_path": "updatefile3dsx/boot.smdh" 
+  } 
+  ] 
+} 
